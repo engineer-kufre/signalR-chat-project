@@ -1,0 +1,44 @@
+﻿@page
+<div class="container">
+    <h3>SIGN UP</h3>
+    <div class="row">&nbsp;</div>
+    <div class="row">
+        <div class="col-3">First Name</div>
+        <div class="col-4"><input type="text" id="firstNameInput" /></div>
+    </div>
+    <div class="row">
+        <div class="col-3">Last Name</div>
+        <div class="col-4"><input type="text" id="lastNameInput" /></div>
+    </div>
+    <div class="row">
+        <div class="col-3">Email</div>
+        <div class="col-4"><input type="email" id="emailInput" /></div>
+    </div>
+    <div class="row">
+        <div class="col-3">Phone Number</div>
+        <div class="col-4"><input type="text" id="phoneNumberInput" /></div>
+    </div>
+    <div class="row">
+        <div class="col-3">Role</div>
+        <select class="col-4" name=" dropdown" id="roleInput">
+            <option value="" selected>Select Role</option>
+            <option value="Admin">Admin</option>
+            <option value="User">User</option>
+        </select>
+    </div>
+    <div class="row">
+        <div class="col-3">Password</div>
+        <div class="col-4"><input type="password" id="passwordInput" /></div>
+    </div>
+    <div class="row">
+        <div class="col-3">Confirm Password</div>
+        <div class="col-4"><input type="password" id="confirmPasswordInput" /></div>
+    </div>
+    <div class="row">&nbsp;</div>
+    <div class="row">
+        <div class="col-6">
+            <input type="button" id="submitButton" value="Submit" />
+        </div>
+    </div>
+</div>
+<script src="~/js/signup.js"></script>

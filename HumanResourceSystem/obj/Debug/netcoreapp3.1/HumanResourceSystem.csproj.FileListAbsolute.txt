@@ -1,0 +1,126 @@
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.exe
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.deps.json
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.runtimeconfig.json
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.runtimeconfig.dev.json
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.dll
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.pdb
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.Views.dll
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.Views.pdb
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.csprojAssemblyReference.cache
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.AssemblyInfoInputs.cache
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.AssemblyInfo.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.csproj.CoreCompileInputs.cache
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.RazorAssemblyInfo.cache
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.RazorAssemblyInfo.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\staticwebassets\HumanResourceSystem.StaticWebAssets.Manifest.cache
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\staticwebassets\HumanResourceSystem.StaticWebAssets.xml
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\scopedcss\bundle\HumanResourceSystem.styles.css
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.TagHelpers.input.cache
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.TagHelpers.output.cache
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.RazorCoreGenerate.cache
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.RazorTargetAssemblyInfo.cache
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.RazorTargetAssemblyInfo.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.Views.pdb
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.dll
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.pdb
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.genruntimeconfig.cache
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.csproj.CopyComplete
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Chat\Index.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Auth\SignIn.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Auth\SignUp.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.exe
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.deps.json
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.runtimeconfig.json
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.runtimeconfig.dev.json
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.dll
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.pdb
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.Views.dll
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.Views.pdb
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.csprojAssemblyReference.cache
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.AssemblyInfoInputs.cache
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.AssemblyInfo.cs
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.csproj.CoreCompileInputs.cache
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.RazorAssemblyInfo.cache
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.RazorAssemblyInfo.cs
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\staticwebassets\HumanResourceSystem.StaticWebAssets.Manifest.cache
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\staticwebassets\HumanResourceSystem.StaticWebAssets.xml
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\scopedcss\bundle\HumanResourceSystem.styles.css
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.TagHelpers.input.cache
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.TagHelpers.output.cache
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.RazorCoreGenerate.cache
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Auth\SignIn.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Auth\SignUp.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Chat\Index.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.RazorTargetAssemblyInfo.cache
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.RazorTargetAssemblyInfo.cs
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.Views.pdb
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.csproj.CopyComplete
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.dll
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.pdb
+C:\Users\Kufreabasi Ita\Desktop\employee-records-management-system-api\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.genruntimeconfig.cache
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.exe
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.deps.json
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.runtimeconfig.json
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.runtimeconfig.dev.json
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.dll
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.pdb
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.Views.dll
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\bin\Debug\netcoreapp3.1\HumanResourceSystem.Views.pdb
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.csprojAssemblyReference.cache
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.AssemblyInfoInputs.cache
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.AssemblyInfo.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.csproj.CoreCompileInputs.cache
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.RazorAssemblyInfo.cache
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.RazorAssemblyInfo.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\staticwebassets\HumanResourceSystem.StaticWebAssets.Manifest.cache
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\staticwebassets\HumanResourceSystem.StaticWebAssets.xml
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\scopedcss\bundle\HumanResourceSystem.styles.css
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.TagHelpers.input.cache
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.TagHelpers.output.cache
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.RazorCoreGenerate.cache
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Auth\SignIn.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Auth\SignUp.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Chat\Index.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.RazorTargetAssemblyInfo.cache
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.RazorTargetAssemblyInfo.cs
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.Views.pdb
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.csproj.CopyComplete
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.dll
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.pdb
+C:\Users\Kufreabasi Ita\Desktop\Coding\Decagon Training\Tasks\FirstLine24\employee-management-system\HumanResourceSystem\obj\Debug\netcoreapp3.1\HumanResourceSystem.genruntimeconfig.cache

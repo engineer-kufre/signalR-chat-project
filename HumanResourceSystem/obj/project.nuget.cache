@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YsT/qts72qHiq8AFzXXSSlXfPtrN8pX8KIQ+w9WM3o043Z4j+Ygc0/cAUYOZ8P6jurqpY53Ss7d172Kzy6OFbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kufreabasi Ita\\Desktop\\Coding\\Decagon Training\\Tasks\\FirstLine24\\signalR-chat-project\\HumanResourceSystem\\HumanResourceSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kufreabasi Ita\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Kufreabasi Ita\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Kufreabasi Ita\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
